@@ -1,0 +1,27 @@
+
+div .todo {
+    margin: 10px;
+}
+
+form {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.todo input {
+    width: 50%;
+}
+
+.todo button {
+    margin-left: 10px;
+    width: 125px;
+}
+
+.list-group .list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-group .list-group-item input {
+    width: 20px;
+}
